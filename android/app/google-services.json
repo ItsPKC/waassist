@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950345778694",
+    "project_id": "wa-assist",
+    "storage_bucket": "wa-assist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950345778694:android:63f8ca4989bc5b12952587",
+        "android_client_info": {
+          "package_name": "com.icyindia.waassist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950345778694-4s4hunhfhjqhs58onr1mpjk25475bl3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlsmXmh32uSUG0O4NG80nWMpfUO4QlW0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950345778694-4s4hunhfhjqhs58onr1mpjk25475bl3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
