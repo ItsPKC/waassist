@@ -1,4 +1,6 @@
-# waassist
+# WA Assist
+
+Play Store : https://play.google.com/store/apps/details?id=com.icyindia.waassist
 
 WA Assist is an integrated platform to simplify the experience of using WhatsApp.
 
